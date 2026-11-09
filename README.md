@@ -1,6 +1,6 @@
 # 小炭播了没？
 
-免费使用，三个版本都只关注炭炭OAQ。
+免费使用，三个版本都只关注抖音主播-炭炭OAQ，暂不支持IOS。
 
 **[打开最新版下载页](https://github.com/pohzhihe/xiaotan-boleme-downloads/releases/latest)**，按设备和用途选择：
 
