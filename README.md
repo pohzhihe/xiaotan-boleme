@@ -27,7 +27,12 @@
 2. 回到 **主播** 页开启开播监测，并按提示允许通知和后台运行。默认用通知提醒，历史可在 **开播记录** 查看。
 3. 如果要用手机控制电脑录播，先让两台设备连接同一个局域网。在 Windows 的 **连接手机** 页开启 **允许手机连接**，再在手机的 **电脑** 页扫码或搜索，最后在电脑上同意配对。
 
-<img src="screenshots/android-monitor.png" alt="安卓一般版主播页及开播监测开关" width="250">
+<table>
+<tr>
+<td align="center"><img src="screenshots/android-monitor.png" alt="安卓一般版主播页及开播监测开关" width="30%"><br>主页监测开关</td>
+<td align="center"><img src="screenshots/cookie.png" alt="安卓一般版的设定页，一键获取并保存cookie" width="30%"><br>设定cookie</td>
+</tr>
+</table>
 
 ### 安卓录播版
 
@@ -50,4 +55,4 @@
 2. **监测** 用来开启或关闭开播监测。首次使用请先在应用里设置 Cookie，并按提示允许通知和后台运行。
 3. **记录此刻** 在录制过程中留下时间标记。一般版需要先配对电脑，标记当前电脑的录像。录播版标记手机正在录制的录像。
 
-<img src="screenshots/img-quick-set.png" alt="安卓控制中心的监测与记录此刻快捷开关" width="250">
+<img src="screenshots/img-quick-set.png" alt="安卓控制中心的监测与记录此刻快捷开关" width="50%">
