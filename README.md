@@ -18,8 +18,8 @@
 2. 到 **设置 → 保存与命名** 选择目录并保存设置。录像会按日期存放。
 3. 回到 **录播任务**，选画质并点 **开始录播**。如果炭炭还没开播，软件会等待。录制中可点 **标记此刻**，结束后到 **录播记录** 查看，或点 **保存目录** 打开录像位置。
 
-<img src="windows-cookie.jpg" alt="Windows 的抖音与弹幕设置及一键获取 Cookie 入口" width="740">
-<img src="windows-recording.jpg" alt="Windows 录播任务页，含画质、开始录播、保存目录与精彩时间戳" width="740">
+<img src="screenshots/windows-cookie.jpg" alt="Windows 的抖音与弹幕设置及一键获取 Cookie 入口" width="740">
+<img src="screenshots/windows-recording.jpg" alt="Windows 录播任务页，含画质、开始录播、保存目录与精彩时间戳" width="740">
 
 ### 安卓一般版
 
@@ -27,7 +27,7 @@
 2. 回到 **主播** 页开启开播监测，并按提示允许通知和后台运行。默认用通知提醒，历史可在 **开播记录** 查看。
 3. 如果要用手机控制电脑录播，先让两台设备连接同一个局域网。在 Windows 的 **连接手机** 页开启 **允许手机连接**，再在手机的 **电脑** 页扫码或搜索，最后在电脑上同意配对。
 
-<img src="android-monitor.png" alt="安卓一般版主播页及开播监测开关" width="250">
+<img src="screenshots/android-monitor.png" alt="安卓一般版主播页及开播监测开关" width="250">
 
 ### 安卓录播版
 
@@ -37,5 +37,17 @@
 
 选用 TS 时，可以打开 **录完自动转 MP4**，并决定转换成功后是否保留原 TS。
 
-<img src="android-recorder.png" alt="安卓录播版的文件夹授权与录制控制" width="250">
-<img src="android-recorder-settings.png" alt="安卓录播版的录制画质、格式与自动录制设置" width="250">
+<table>
+<tr>
+<td align="center"><img src="screenshots/android-recorder.png" alt="安卓录播版的文件夹授权与录制控制" width="235"><br>保存位置与录制控制</td>
+<td align="center"><img src="screenshots/android-recorder-settings.png" alt="安卓录播版的录制画质、格式与自动录制设置" width="235"><br>画质、格式与自动录制</td>
+</tr>
+</table>
+
+### 安卓控制中心快捷开关
+
+1. 下拉手机控制中心并展开，点 **编辑**（部分手机显示铅笔图标）。把小炭的 **监测** 和 **记录此刻** 拖到常用区域。也可以在应用的 **设置 → 后台与心跳 → 控制中心快捷开关** 添加监测开关。
+2. **监测** 用来开启或关闭开播监测。首次使用请先在应用里设置 Cookie，并按提示允许通知和后台运行。
+3. **记录此刻** 在录制过程中留下时间标记。一般版需要先配对电脑，标记当前电脑的录像。录播版标记手机正在录制的录像。
+
+<img src="screenshots/android-quick-settings.png" alt="安卓控制中心的监测与记录此刻快捷开关" width="250">
