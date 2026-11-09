@@ -50,4 +50,4 @@
 2. **监测** 用来开启或关闭开播监测。首次使用请先在应用里设置 Cookie，并按提示允许通知和后台运行。
 3. **记录此刻** 在录制过程中留下时间标记。一般版需要先配对电脑，标记当前电脑的录像。录播版标记手机正在录制的录像。
 
-<img src="screenshots/android-quick-settings.png" alt="安卓控制中心的监测与记录此刻快捷开关" width="250">
+<img src="screenshots/img-quick-set.png" alt="安卓控制中心的监测与记录此刻快捷开关" width="250">
