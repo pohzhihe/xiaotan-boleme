@@ -29,8 +29,8 @@
 
 <table>
 <tr>
-<td align="center"><img src="screenshots/android-monitor.png" alt="安卓一般版主播页及开播监测开关" width="30%"><br>主页监测开关</td>
-<td align="center"><img src="screenshots/cookie.png" alt="安卓一般版的设定页，一键获取并保存cookie" width="30%"><br>设定cookie</td>
+<td align="center"><img src="screenshots/android-monitor.png" alt="安卓一般版主播页及开播监测开关" width="235"><br>主页监测开关</td>
+<td align="center"><img src="screenshots/cookie.png" alt="安卓一般版的设定页，一键获取并保存cookie" width="235"><br>设定cookie</td>
 </tr>
 </table>
 
